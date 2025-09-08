@@ -1,5 +1,7 @@
 # Currency Converter 💰
 
+🔗 **[currency-converter-web.pages.dev](https://currency-converter-web.pages.dev/)**
+
 A sleek, modern, and mobile-first currency converter application built with Vanilla JavaScript. This web app fetches real-time exchange rates and provides a clean, user-friendly interface with both light and dark modes.
 
 This project was built as a hands-on exercise to practice modern JavaScript (ES Modules), API integration, and dynamic DOM manipulation.
